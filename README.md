@@ -70,4 +70,7 @@ This project is a Streamlit web application that acts as a natural language quer
    MODEL_URL="your_url"
    MODEL_NAME="Model_Name"
    ```
+## Example
+<img width="1440" height="900" alt="Screenshot 2025-08-17 at 6 14 26 PM" src="https://github.com/user-attachments/assets/a4080d03-8d82-4535-8c8e-6758681c34e2" />
+<img width="1440" height="900" alt="Screenshot 2025-08-17 at 6 13 49 PM" src="https://github.com/user-attachments/assets/f35a88f2-6c39-4897-9cc8-d8bc9a29ecde" />
 

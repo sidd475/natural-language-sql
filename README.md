@@ -63,8 +63,11 @@ This project is a Streamlit web application that acts as a natural language quer
    postgresql://<username>:<password>@localhost:5432/<database_name>
    ```
    -Replace `<username>`, `<password>`, `<host>`, `<port>`, `<database_name>`
+
+
 6.In `.env` add your llm model name and its key
    ```bash
    MODEL_URL="your_url"
    MODEL_NAME="Model_Name"
    ```
+

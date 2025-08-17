@@ -18,3 +18,18 @@ This project is a Streamlit web application that acts as a natural language quer
 - **LangChain**: The framework for building the AI agent and its tools.
 - **LLM**: A large language model run locally using LM Studio.
 - **SQLAlchemy**: The Python SQL toolkit for database interaction.
+
+### 🚀 Getting Started
+
+#### Prerequisites
+
+- Python 3.8 or higher
+- PostgreSQL
+- pip (Python package manager)
+
+#### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone 
+   cd <repository-folder>

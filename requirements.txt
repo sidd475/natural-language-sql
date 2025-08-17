@@ -1,0 +1,26 @@
+# Database & ORM
+sqlalchemy
+psycopg2-binary
+
+# LLM & LangChain
+langchain
+langchain-openai
+
+# Data Processing
+pandas
+
+# Visualization
+plotly
+matplotlib
+
+# UI (choose one, or keep both)
+streamlit
+fastapi
+uvicorn[standard]
+
+# Environment variables
+python-dotenv
+
+# Optional: Dev tools for clean code
+black
+isort
